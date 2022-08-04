@@ -1,0 +1,67 @@
+*{
+    font-family: 'Poppins';
+    scroll-behavior: smooth;
+}
+
+
+.btn-primary {
+    background-color: #21B573;
+    color: white !important;
+    padding: 7px 21px !important;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.btn-primary:hover{
+    background-color: #15b06a;
+}
+/* header css */
+
+.header{
+    background-color:  #F0FFF0;;
+}
+.header img {
+    height: 34px;
+    width: auto;
+}
+
+
+.slider h6 {
+    color: #FD511A;
+    font-size: 16px;
+}
+.slider h1 {
+    font-size: 48px;
+    color: #000000;
+}
+.slider h1 span{
+    color: #21B573;
+}
+.slider p {
+    font-size: 16px;
+}
+
+.slider img {
+    height: 293px;
+}
+
+/* book css */
+.booksItme {
+    font-size: 16px;
+    width: 59%;
+    margin: auto;
+    padding: 20px 0px;
+    border-radius: 5px;
+    text-align: center;
+    background: #F8FFFB;
+    box-shadow: 5px 5px 10px rgba(69,69,69,.1) ;
+} 
+.booksItme img {
+    width: 66px;
+    height: 85px;
+}
+.booksItme h5{
+    text-align: center;
+    margin: 0;
+}
+
+
